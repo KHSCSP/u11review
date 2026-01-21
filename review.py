@@ -76,7 +76,9 @@ create list of tuples: (item, count(item))
 
 # TODO count how many times each letter of the alphabet appears
 # make a list of tuples where each tuple is (letter, count(letter))
-
+# NOTE: you may need to go back to an earlier version
+# of the constitution.
+# **you need** a string with spaces removed
 
 
 
